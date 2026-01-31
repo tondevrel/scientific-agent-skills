@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "example-server": {
+      "command": "npx",
+      "args": ["mcp-remote", "https://example.mcp.server.com/mcp"],
+      "_comment": "Replace with your actual MCP servers or remove this file if not using MCP"
+    }
+  }
+}

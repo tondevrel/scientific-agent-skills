@@ -1,33 +1,16 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-env/
-.venv/
-.env
+# OS
+.DS_Store
+Thumbs.db
 
-# IDE
+# Editor
 .idea/
 .vscode/
 *.swp
 *.swo
 
-# Jupyter
-.ipynb_checkpoints/
+# Dependencies (if any)
+node_modules/
 
-# Distribution
-dist/
-build/
-*.egg-info/
-
-# Testing
-.pytest_cache/
-.coverage
-htmlcov/
-
-# OS
-.DS_Store
-Thumbs.db
+# Temp files
+*.tmp
+*.bak

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "scientific-agent-skills",
+  "owner": {
+    "name": "Your Name or Organization",
+    "url": "https://github.com/your-username/scientific-agent-skills"
+  },
+  "plugins": [
+    {
+      "name": "scientific-agent-skills",
+      "source": "./",
+      "description": "Agent skills for scientific computing and research"
+    }
+  ]
+}

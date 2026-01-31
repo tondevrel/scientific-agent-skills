@@ -1,0 +1,8 @@
+{
+  "name": "scientific-agent-skills",
+  "description": "Agent skills for scientific computing, research workflows, and data analysis",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name or Organization"
+  }
+}
